@@ -12,6 +12,7 @@ func main() {
 	formatting_strings()
 	if_else()
 	switch_case()
+	loops()
 }
 
 func variables() {
