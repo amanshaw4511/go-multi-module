@@ -13,6 +13,7 @@ func main() {
 	if_else()
 	switch_case()
 	loops()
+	functions()
 }
 
 func variables() {
