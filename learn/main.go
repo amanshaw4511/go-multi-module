@@ -14,6 +14,7 @@ func main() {
 	switch_case()
 	loops()
 	functions()
+	structs()
 }
 
 func variables() {
