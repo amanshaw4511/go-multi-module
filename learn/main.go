@@ -15,6 +15,7 @@ func main() {
 	loops()
 	functions()
 	structs()
+	interfaces()
 }
 
 func variables() {
