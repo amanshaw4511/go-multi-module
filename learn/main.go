@@ -17,6 +17,7 @@ func main() {
 	structs()
 	interfaces()
 	slices()
+	maps()
 }
 
 func variables() {
